@@ -5,7 +5,8 @@ MoviesClub is a Java-based application designed for managing and exploring a col
 ## Features
 
 - REST API to interact with movie data
-- Add, edit, and delete movie entries with movie poster image via API endpoints
+- Add, edit, and delete movie entries via API endpoints
+- Incorporates File Handling and custom Exception Handling
 - Organize movies by genre, year, etc.
 - User can register and login
 - User can updatePassword through Email verification using OTP
